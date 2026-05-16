@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhitha%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Products%20That%20Ship&descSize=16&descAlignY=52" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=3+production+apps+deployed+and+serving+users;Full+Stack+%E2%80%A2+ML+%E2%80%A2+Cloud+%E2%80%A2+DevOps;I+don't+just+write+code%2C+I+ship+products+%F0%9F%9A%80)](https://github.com/abhitha-says)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=110&lines=3+production+apps+deployed+and+serving+users;Full+Stack+%E2%80%A2+ML+%E2%80%A2+Cloud+%E2%80%A2+DevOps;I+don't+just+write+code%2C+I+ship+products+%F0%9F%9A%80)](https://github.com/abhitha-says)
 
 </div>
 
