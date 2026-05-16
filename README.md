@@ -1,69 +1,229 @@
 <div align="center">
-  
-  <h1 align="center">Abhitha E</h1>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=react" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=tensorflow" alt="AI Enthusiast" />
-    <img src="https://img.shields.io/badge/Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="Cloud Practitioner" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhitha%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Products%20That%20Ship&descSize=16&descAlignY=52" width="100%" />
 
-  <p align="center">
-    Computer Science Engineering Student at <b>Atria Institute of Technology</b>.  
-    Building scalable SaaS platforms and AI-driven applications.
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=3+production+apps+deployed+and+serving+users;Full+Stack+%E2%80%A2+ML+%E2%80%A2+Cloud+%E2%80%A2+DevOps;I+don't+just+write+code%2C+I+ship+products+%F0%9F%9A%80)](https://github.com/abhitha-says)
 
-  <p align="center">
-    <a href="https://linkedin.com/in/abhithaekambaram">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:abhithaekambaram@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/abhitha-says">
-      <img src="https://img.shields.io/badge/Portfolio-View_Work-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+</div>
+
+## `> whoami`
+
+```js
+const abhitha = {
+    role: "Full Stack Developer @ IshiSoft Pvt Ltd",
+    education: "B.E. Computer Science — Atria Institute of Technology '27",
+    location: "Bengaluru, India 🇮🇳",
+    currentlyBuilding: "Production e-commerce & AI platforms",
+    philosophy: "If it's not deployed, it doesn't count.",
+};
+```
+
+I'm a developer who believes in **shipping**. Not just building — *shipping*. Every major project I've worked on is live, in production, handling real users and real transactions. I build with the MERN stack, deploy on cloud, and occasionally train ML models to catch deepfakes.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhithaekambaram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhithaekambaram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/abhitha-says"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-### Technical Skills
+## 🚀 What I've Shipped (Live in Production)
+
+> These aren't side projects sitting in a repo. Every one of these is **deployed, live, and serving real users**.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ [GiftsNGifts](https://giftsngifts.in)
+**Multi-Vendor E-Commerce Marketplace**
+
+A full-stack marketplace with 500+ products, 30+ categories, and 20+ sellers. Features Razorpay payments, stock reservation with MongoDB transactions, AI chatbot, and separate Admin + Seller dashboards.
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary`
+
+<a href="https://giftsngifts.in"><img src="https://img.shields.io/badge/🔴_LIVE-giftsngifts.in-success?style=flat-square" /></a>
+
+</td>
+<td width="50%">
+
+### 🌐 [TechBrahmand](https://www.techbrahmand.giftsngifts.in)
+**Digital Agency Platform with 3D Web**
+
+Client onboarding platform for a digital agency built around the Hindu Trinity concept. Features immersive 3D scenes with React Three Fiber, cinematic scroll animations, and a lead capture pipeline.
+
+`React 19` `Three.js` `Framer Motion` `Express.js` `MongoDB`
+
+<a href="https://www.techbrahmand.giftsngifts.in"><img src="https://img.shields.io/badge/🔴_LIVE-techbrahmand-success?style=flat-square" /></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🛡️ [DeFraudAI](http://defraudai.opscores.in)
+**Deepfake & Misinformation Detection Platform**
+
+ML-powered platform that detects deepfakes in images, videos, and identifies misinformation in news articles. Achieved **92% accuracy** using TensorFlow + Transfer Learning. Includes a browser extension for one-click verification from any webpage.
+
+`Python` `TensorFlow` `React` `TypeScript` `Flask` `Cloudflare Workers` `Three.js`
+
+<a href="http://defraudai.opscores.in"><img src="https://img.shields.io/badge/🔴_LIVE-defraudai.opscores.in-success?style=flat-square" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_SDK-F05032?style=flat-square&logo=groq&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+**What I use daily to build, deploy, and maintain production applications.**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="40" /><br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="40" /><br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="40" /><br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><sub><b>Node.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="40" /><br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="40" /><br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="40" /><br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40" /><br><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="40" /><br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="40" /><br><sub><b>AWS</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="40" /><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="40" /><br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="40" /><br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="40" /><br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=threejs" width="40" /><br><sub><b>Three.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="40" /><br><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="40" /><br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="40" /><br><sub><b>Cloudflare</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhitha-says&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha-says&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhitha-says&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 ---
 
-### Featured Projects
+## 🏅 Certifications
 
-| **Project** | **Description** | **Tech Stack** |
-| :--- | :--- | :--- |
-| **ConsoleCV** | Full-stack SaaS for AI-driven resume parsing with React Server Components. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) ![Llama 3](https://img.shields.io/badge/AI-Llama_3-blueviolet) |
-| **DeFraudAI** | Deepfake & Misinformation detection platform with 92% accuracy. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
-| **PhotoVault** | Secure Digital Asset Management with Row-Level Security (RLS). | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
-| **Telemetry Pipeline** | High-throughput backend ingesting 10k+ daily data points. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Infosys-Programming_in_C_&_Java-007DC5?style=for-the-badge&logo=infosys&logoColor=white" />
+
+</div>
 
 ---
 
-### GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhitha-says&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Abhitha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhitha-says&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+### 💡 What Sets Me Apart
+
+```
+📦 3 production apps live and serving real users
+💳 Processed real payments via Razorpay in production
+🤖 Trained ML models that detect deepfakes at 92% accuracy
+🌐 Deployed across Hostinger VPS, Cloudflare Workers, and Vercel
+👥 Led cross-functional teams and mentored junior developers
+```
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha-says&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+
+<img src="https://komarev.com/ghpvc/?username=abhitha-says&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+**If you're looking for a developer who ships — let's talk.**
+
+<a href="https://linkedin.com/in/abhithaekambaram"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
